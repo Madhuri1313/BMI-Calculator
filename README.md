@@ -1,5 +1,5 @@
 # BMI-Calculator
-Simple BMI calculator in Python
+Simple BMI calculator in C
 # BMI Calculator (Mini Project)
 
 This is a simple mini project developed using the C programming language.
